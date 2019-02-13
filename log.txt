@@ -1,0 +1,608 @@
+[«·À·«À«¡ ›»—«Ì— 12 17:31:25 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:31:28 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:31:28 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:31:29 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:31:30 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:31:33 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:32:06 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:38 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:40 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:40 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:40 2019] Debug: ARecord : 49253
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:40 2019] Debug: Worker Stopped
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:34:40 2019] Debug: IE Thread Exitted: 0x2990
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:36:21 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:36:21 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:36:23 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:36:23 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:36:24 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:21 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:22 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:22 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:23 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:24 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:51:24 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:52:02 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:52:02 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:52:04 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:52:04 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:52:05 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:30 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:31 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:31 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:32 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:33 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:34 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:57 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 17:59:58 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:00:00 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:00:00 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:00:01 2019] Warning: QIODevice::write (QFile, "C:\Users\ASUS\AppData\Local\Temp\r4e86867566e6f38d30acc6508398412.exe"): device not open
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:41 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:41 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:41 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:42 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:43 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:44 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:49 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:50 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:52 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:52 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 18:01:52 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:33 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:33 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:33 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:34 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:35 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:02:38 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:07:09 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:07:16 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:07:18 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:07:18 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:07:19 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:19:59 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:00 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:00 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:00 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:01 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:02 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:11 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:13 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:15 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:15 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:20:15 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:08 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:09 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:09 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:09 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:10 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:23:11 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:33:49 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:33:50 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:33:53 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:33:53 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:33:54 2019] Warning: QIODevice::write (QFile, "C:\Users\ASUS\AppData\Local\Temp\r4e86867566e6f38d30acc6508398412.exe"): device not open
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:16 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:16 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:16 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:17 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:18 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:19 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:26 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:27 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:28 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:28 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 19:34:29 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:55 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:56 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:56 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:57 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:58 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:08:59 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:09:04 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:09:05 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:09:07 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:09:07 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:09:08 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:20 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:21 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:21 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:23 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:24 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:36 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:36 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:39 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:40 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:40 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:14:41 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:48 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:49 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:49 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:50 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:51 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:53 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:57 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:49:59 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:50:04 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:50:04 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 20:50:05 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:48 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:53 2019] Debug: default Language: "ar"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:53 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:54 2019] Debug: FontLoader Loaded
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:55 2019] Debug: async models initialize
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:05:57 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:01 2019] Debug: rWeb :  "1"
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:03 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:11 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:11 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:11 2019] Debug: ARecord : 49348
+
+
+
+[«·À·«À«¡ ›»—«Ì— 12 23:06:12 2019] Debug: [+] InjectionCore : External Started 
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:46 2019] Debug: web version :  "3.0.4.7" current version  3.0.4.7
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:54 2019] Debug: default Language: "ar"
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:54 2019] Debug: unsupported Language :  "ar"  - If you want support your language please visit this thread : https://memoryhackers.net/konular/memoryui-we-are-looking-for-interpreters-important-thread.57145/ 
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:55 2019] Debug: FontLoader Loaded
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:56 2019] Debug: async models initialize
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:46:57 2019] Warning: libpng warning: iCCP: known incorrect sRGB profile
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:02 2019] Debug: rWeb :  "1"
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:05 2019] Debug: [+] InjectionCore : Data Fetching..
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:07 2019] Debug: [+] InjectionCore : Data Fetching Success..
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:07 2019] Debug: [+] InjectionCore : Waiting for action..
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:07 2019] Debug: ARecord : 49311
+
+
+
+[«·√—»⁄«¡ ›»—«Ì— 13 19:47:08 2019] Debug: [+] InjectionCore : External Started 
+
+
+
